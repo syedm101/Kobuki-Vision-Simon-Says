@@ -235,6 +235,8 @@ DirectoryIndex index.htm
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
+				<Item Name="niLvFpga_Open_ELVIS RIO CM.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/ELVIS RIO CM/niLvFpga_Open_ELVIS RIO CM.vi"/>
+				<Item Name="niLvFpga_Open_roboRIO.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/roboRIO/niLvFpga_Open_roboRIO.vi"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Parse Scaling Constant Table.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Parse Scaling Constant Table.vi"/>
 				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
